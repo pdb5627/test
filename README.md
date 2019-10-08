@@ -10,4 +10,5 @@ I'm trying some more editing to see if I can commit more smoothly now.
 
 The next step is testing a commit that is signed with my new GPG key.
 
+I want to test another commit. Just to check.
 
