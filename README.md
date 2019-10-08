@@ -12,3 +12,4 @@ The next step is testing a commit that is signed with my new GPG key.
 
 I want to test another commit. Just to check.
 
+Still testing
