@@ -6,3 +6,5 @@ I cloned the test repository.
 
 Now I am editing the README file on my local copy.
 
+I'm trying some more editing to see if I can commit more smoothly now.
+
